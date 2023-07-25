@@ -34,7 +34,7 @@
 <!-- INTRO -->
 # 📖 Portfolio <a name="about-project"></a>
 
-> This is a To Do List project with just HTML and CSS using ES6 using WebPack 
+> This is a Project done using HTMl, CSS, JavaScript and WebPAck
 
 ## 🛠 Built With <a name="built-with"></a>
 1. HTML
